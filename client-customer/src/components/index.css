@@ -1,0 +1,30 @@
+.menu{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+.sbtn{
+    font-family: 'Inter', sans-serif;
+}
+.account-section{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+.cart{
+    font-family: 'Inter', sans-serif;
+}
+.sign-in{
+    font-family: 'Inter', sans-serif;
+}
+.remove-link{
+    font-weight: 900;
+    
+}
+.datatable{
+    font-family: 'Inter', sans-serif; 
+    
+}
+.info-section{
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif; 
+
+}
